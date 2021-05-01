@@ -7,9 +7,9 @@ $(function(){
             {dataField : "City", visible: false}, 
             {dataField : "Pincode", visible: false}, 
             {dataField : "Name", width: 125}, 
-            {dataField : "Condition", width: 125}, 
+            {dataField : "Condition", width: 300}, 
             {dataField : "Phone", visible: false}, 
-            {dataField : "Emergency", width: 125},
+            {dataField : "Emergency", width: 20},
             {dataField : "Status", visible: false},
             {dataField : "Priority", visible: false}
         ],
@@ -31,14 +31,14 @@ $(function(){
     $("#gridContainer1").dxDataGrid({
         dataSource: "data/needhelp.json",
         columns: [
-            "State", 
-            {dataField : "District", visible: false},
+            {dataField : "State", width: 125},
+            {dataField : "District", visible: false, width: 125},
             {dataField : "City", visible: false}, 
             {dataField : "Pincode", visible: false}, 
-            "Name", 
-            "Condition", 
+            {dataField : "Name", width: 125}, 
+            {dataField : "Condition", width: 300}, 
             {dataField : "Phone", visible: false}, 
-            "Emergency", 
+            {dataField : "Emergency", width: 20},
             {dataField : "Status", visible: false},
             {dataField : "Priority", visible: false}
         ],
