@@ -9,7 +9,7 @@ $(function(){
             {dataField : "Name", width: 125}, 
             {dataField : "Condition", width: 300}, 
             {dataField : "Phone", visible: false}, 
-            {dataField : "Emergency", width: 20},
+            {dataField : "Emergency", width: 120},
             {dataField : "Status", visible: false},
             {dataField : "Priority", visible: false}
         ],
@@ -38,7 +38,7 @@ $(function(){
             {dataField : "Name", width: 125}, 
             {dataField : "Condition", width: 300}, 
             {dataField : "Phone", visible: false}, 
-            {dataField : "Emergency", width: 20},
+            {dataField : "Emergency", width: 120},
             {dataField : "Status", visible: false},
             {dataField : "Priority", visible: false}
         ],
