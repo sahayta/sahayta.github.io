@@ -1,6 +1,6 @@
 $(function(){
     $("#gridContainer").dxDataGrid({
-        dataSource: "data/customers.json",
+        dataSource: "https://js.devexpress.com/Demos/WidgetsGallery/JSDemos/data/customers.json",
         columns: ["CompanyName", "City", "State", "Phone", "Fax"],
         showBorders: true
     });
