@@ -9,7 +9,7 @@
     "Phone": "(612) 291-2001",
     "Emergency": "http://www.nowebsitepremierbuy.com",
     "Status": "http://www.nowebsitepremierbuy.com",
-    "Priority": "http://www.nowebsitepremierbuy.com",
+    "Priority": "http://www.nowebsitepremierbuy.com"
 }, {
     "ID": 2,
     "State": "Premier Buy",
@@ -21,7 +21,7 @@
     "Phone": "(612) 291-2001",
     "Emergency": "http://www.nowebsitepremierbuy.com",
     "Status": "http://www.nowebsitepremierbuy.com",
-    "Priority": "http://www.nowebsitepremierbuy.com",
+    "Priority": "http://www.nowebsitepremierbuy.com"
 },{
     "ID": 3,
     "State": "Premier Buy",
@@ -33,7 +33,7 @@
     "Phone": "(612) 291-2001",
     "Emergency": "http://www.nowebsitepremierbuy.com",
     "Status": "http://www.nowebsitepremierbuy.com",
-    "Priority": "http://www.nowebsitepremierbuy.com",
+    "Priority": "http://www.nowebsitepremierbuy.com"
 },{
     "ID": 4,
     "State": "Premier Buy",
@@ -45,5 +45,5 @@
     "Phone": "(612) 291-2001",
     "Emergency": "http://www.nowebsitepremierbuy.com",
     "Status": "http://www.nowebsitepremierbuy.com",
-    "Priority": "http://www.nowebsitepremierbuy.com",
+    "Priority": "http://www.nowebsitepremierbuy.com"
 }]
