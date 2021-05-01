@@ -2,14 +2,14 @@ $(function(){
     $("#gridContainer").dxDataGrid({
         dataSource: "data/needhelp.json",
         columns: [
-            "State", 
-            {dataField : "District", visible: false},
+            {dataField : "State", width: 125},
+            {dataField : "District", visible: false, width: 125},
             {dataField : "City", visible: false}, 
             {dataField : "Pincode", visible: false}, 
-            "Name", 
-            "Condition", 
+            {dataField : "Name", width: 125}, 
+            {dataField : "Condition", width: 125}, 
             {dataField : "Phone", visible: false}, 
-            "Emergency", 
+            {dataField : "Emergency", width: 125},
             {dataField : "Status", visible: false},
             {dataField : "Priority", visible: false}
         ],
