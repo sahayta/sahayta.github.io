@@ -1,7 +1,7 @@
 $(function(){
     $("#gridContainer").dxDataGrid({
-        dataSource: "data/customers.json",
-        columns: ["CompanyName", "City", "State", "Phone", "Fax"],
+        dataSource: "data/needhelp.json",
+        columns: ["State", "District", "City", "Pincode", "Name", "Condition", "Phone", "Emergency", "Status", "Priority"],
         showBorders: true
     });
 });
