@@ -10,7 +10,7 @@ $(function(){
             "Condition", 
             "Phone", 
             "Emergency", 
-            {dataField : "Status", , visible: false},
+            {dataField : "Status", visible: false},
             {dataField : "Priority", visible: false}
         ],
         showBorders: true,
