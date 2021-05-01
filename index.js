@@ -8,7 +8,7 @@ $(function(){
             {dataField : "Pincode", visible: false}, 
             "Name", 
             "Condition", 
-            "Phone", 
+            {dataField : "Phone", visible: false}, 
             "Emergency", 
             {dataField : "Status", visible: false},
             {dataField : "Priority", visible: false}
