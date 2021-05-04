@@ -1,49 +1,27 @@
 [{
     "ID": 1,
     "State": "Bihar",
-    "District": "Patna",
-    "City": "Patna",
-    "Pincode": "800013",
-    "Name": "Jai",
+    "Address": "",
     "Condition": "Blood Needed O+",
-    "Phone": "00000 00000",
-    "Emergency": "Immediate",
-    "Status": "Pending help",
-    "Priority": "0"
+    "Phone": "00000 00000"
 }, {
     "ID": 2,
     "State": "Jharkhand",
-    "District": "Ranchi",
-    "City": "Ranchi",
-    "Pincode": "834001",
-    "Name": "Shri",
-    "Condition": "Blood Needed O+",
-    "Phone": "00000 00000",
-    "Emergency": "Immediate",
-    "Status": "Pending help",
-    "Priority": "0"
+    "Address": "",
+    "Phone": "",
 },{
     "ID": 3,
     "State": "Odisha",
-    "District": "Bhubaneshwar",
-    "City": "Bhubaneshwar",
-    "Pincode": "700001",
-    "Name": "Jagannath",
-    "Condition": "Blood Needed O+",
-    "Phone": "00000 00000",
-    "Emergency": "Immediate",
-    "Status": "Pending help",
-    "Priority": "0"
+    "Address": "Blood Needed O+",
+    "Phone": ""
 },{
     "ID": 4,
+    "State": "Uttar Pradesh",
+    "Address": "",
+    "Phone": ""
+},{
+    "ID": 5,
     "State": "West Bengal",
-    "District": "Kolkata",
-    "City": "Richfield",
-    "Pincode": "700001",
-    "Name": "Ram",
-    "Condition": "Blood Needed O+",
-    "Phone": "00000 00000",
-    "Emergency": "Immediate",
-    "Status": "Pending help",
-    "Priority": "0"
+    "Address": "Ujjiban Hospital, Jatragachi Floyover , Newtown, Kolkata",
+    "Phone": ""
 }]
