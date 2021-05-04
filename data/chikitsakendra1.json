@@ -1,0 +1,112 @@
+[{
+    "ID": 5,
+    "State": "पश्चिम बंगाल",
+    "Address": "Ujjiban Hospital, Jatragachi Floyover , Newtown, Kolkata",
+    "Phone": ""
+},{
+    "ID": 6,
+    "State": "बिहार",
+    "Address": "https://covid19health.bihar.gov.in/DailyDashboard/BedsOccupied",
+    "Phone": ""
+},{
+    "ID": 8,
+    "State": "हरियाणा",
+    "Address": "https://covidggn.com/",
+    "Phone": ""
+},{
+    "ID": 9,
+    "State": "दिल्ली",
+    "Address": "https://coviddelhi.com/",
+    "Phone": ""
+},{
+    "ID": 10,
+    "State": "महाराष्ट्र",
+    "Address": "https://covidthane.org/availabiltyOfHospitalBeds.html",
+    "Phone": ""
+},{
+    "ID": 11,
+    "State": "कर्णाटक",
+    "Address": "https://covidbengaluru.com/",
+    "Phone": ""
+},{
+    "ID": 12,
+    "State": "आंध्र प्रदेश",
+    "Address": "https://covidaps.com",
+    "Phone": ""
+},{
+    "ID": 13,
+    "State": "तेलंगाना",
+    "Address": "https://covidtelangana.com",
+    "Phone": ""
+},{
+    "ID": 14,
+    "State": "पश्चिम बंगाल",
+    "Address": "https://covidwb.com",
+    "Phone": ""
+},{
+    "ID": 15,
+    "State": "महाराष्ट्र",
+    "Address": "https://covidpune.com",
+    "Phone": ""
+},{
+    "ID": 16,
+    "State": "गुजरात",
+    "Address": "https://covidamd.com",
+    "Phone": ""
+},{
+    "ID": 17,
+    "State": "गुजरात",
+    "Address": "https://ahna.org.in/covid19.html",
+    "Phone": ""
+},{
+    "ID": 17,
+    "State": "गुजरात",
+    "Address": "https://covidbaroda.com",
+    "Phone": ""
+},{
+    "ID": 19,
+    "State": "महाराष्ट्र",
+    "Address": "https://covidnashik.com",
+    "Phone": ""
+},{
+    "ID": 20,
+    "State": "मध्य प्रदेश",
+    "Address": "https://covidmp.com",
+    "Phone": ""
+},{
+    "ID": 22,
+    "State": "राजस्थान",
+    "Address": "https://covidinfo.rajasthan.gov.in/COVID19HOSPITALBEDSSTATUSSTATE.aspx",
+    "Phone": ""
+},{
+    "ID": 23,
+    "State": "हरियाणा",
+    "Address": "https://coronaharyana.in/",
+    "Phone": ""
+},{
+    "ID": 24,
+    "State": "मध्य प्रदेश",
+    "Address": "https://bhopalcovidbeds.in/",
+    "Phone": ""
+},{
+    "ID": 25,
+    "State": "तमिलनाडु",
+    "Address": "https://covidtnadu.com",
+    "Phone": ""
+},{
+    "ID": 26,
+    "State": "तमिलनाडु",
+    "Address": "https://stopcorona.tn.gov.in/beds.php",
+    "Phone": ""
+},{
+    "ID": 27,
+    "State": "महाराष्ट्र",
+    "Address": "https://covidbeed.com",
+    "Phone": ""
+}
+,{
+    "ID": 28,
+    "State": "गुजरात",
+    "Address": "https://covidgandhinagar.com",
+    "Phone": ""
+}]
