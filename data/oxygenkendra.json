@@ -1,21 +1,6 @@
 [{
-    "ID": 1,
-    "State": "Bihar",
-    "Address": "",
-    "Phone": ""
-}, {
     "ID": 2,
     "State": "Jharkhand",
-    "Address": "",
-    "Phone": ""
-},{
-    "ID": 3,
-    "State": "Odisha",
-    "Address": "",
-    "Phone": ""
-},{
-    "ID": 4,
-    "State": "Uttar Pradesh",
     "Address": "",
     "Phone": ""
 },{
@@ -35,11 +20,6 @@
     "Phone": ""
 },{
     "ID": 9,
-    "State": "Delhi",
-    "Address": "https://coviddelhi.com/",
-    "Phone": ""
-},{
-    "ID": 10,
     "State": "Delhi",
     "Address": "https://coviddelhi.com/",
     "Phone": ""
