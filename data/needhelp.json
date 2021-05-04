@@ -2,13 +2,12 @@
     "ID": 1,
     "State": "Bihar",
     "Address": "",
-    "Condition": "Blood Needed O+",
-    "Phone": "00000 00000"
+    "Phone": ""
 }, {
     "ID": 2,
     "State": "Jharkhand",
     "Address": "",
-    "Phone": "",
+    "Phone": ""
 },{
     "ID": 3,
     "State": "Odisha",
