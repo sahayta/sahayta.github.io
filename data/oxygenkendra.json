@@ -23,4 +23,9 @@
     "State": "West Bengal",
     "Address": "Ujjiban Hospital, Jatragachi Floyover , Newtown, Kolkata",
     "Phone": ""
+},{
+    "ID": 6,
+    "State": "Bihar",
+    "Address": "https://covid19health.bihar.gov.in/DailyDashboard/BedsOccupied",
+    "Phone": ""
 }]
