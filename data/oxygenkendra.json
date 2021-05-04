@@ -28,4 +28,120 @@
     "State": "Bihar",
     "Address": "https://covid19health.bihar.gov.in/DailyDashboard/BedsOccupied",
     "Phone": ""
+},{
+    "ID": 8,
+    "State": "Haryana",
+    "Address": "https://covidggn.com/",
+    "Phone": ""
+},{
+    "ID": 9,
+    "State": "Delhi",
+    "Address": "https://coviddelhi.com/",
+    "Phone": ""
+},{
+    "ID": 10,
+    "State": "Delhi",
+    "Address": "https://coviddelhi.com/",
+    "Phone": ""
+},{
+    "ID": 10,
+    "State": "Maharashtra",
+    "Address": "https://covidthane.org/availabiltyOfHospitalBeds.html",
+    "Phone": ""
+},{
+    "ID": 11,
+    "State": "Karnataka",
+    "Address": "https://covidbengaluru.com/",
+    "Phone": ""
+},{
+    "ID": 12,
+    "State": "Andhra Pradesh",
+    "Address": "https://covidaps.com",
+    "Phone": ""
+},{
+    "ID": 13,
+    "State": "Telangana",
+    "Address": "https://covidtelangana.com",
+    "Phone": ""
+},{
+    "ID": 14,
+    "State": "West Bengal",
+    "Address": "https://covidwb.com",
+    "Phone": ""
+},{
+    "ID": 15,
+    "State": "Maharashtra",
+    "Address": "https://covidpune.com",
+    "Phone": ""
+},{
+    "ID": 16,
+    "State": "Gujarat",
+    "Address": "https://covidamd.com",
+    "Phone": ""
+},{
+    "ID": 17,
+    "State": "Gujarat",
+    "Address": "https://ahna.org.in/covid19.html",
+    "Phone": ""
+},{
+    "ID": 17,
+    "State": "Gujarat",
+    "Address": "https://covidbaroda.com",
+    "Phone": ""
+},{
+    "ID": 18,
+    "State": "Maharashtra",
+    "Address": "http://nsscdcl.org/covidbeds/AvailableHospitals.jsp",
+    "Phone": ""
+},{
+    "ID": 19,
+    "State": "Maharashtra",
+    "Address": "https://covidnashik.com",
+    "Phone": ""
+},{
+    "ID": 20,
+    "State": "Madhya Pradesh",
+    "Address": "https://covidmp.com",
+    "Phone": ""
+},{
+    "ID": 21,
+    "State": "Uttar Pradesh",
+    "Address": "http://dgmhup.gov.in/en/CovidReport",
+    "Phone": ""
+},{
+    "ID": 22,
+    "State": "Rajasthan",
+    "Address": "https://covidinfo.rajasthan.gov.in/COVID19HOSPITALBEDSSTATUSSTATE.aspx",
+    "Phone": ""
+},{
+    "ID": 23,
+    "State": "Haryana",
+    "Address": "https://coronaharyana.in/",
+    "Phone": ""
+},{
+    "ID": 24,
+    "State": "Madhya Pradesh",
+    "Address": "https://bhopalcovidbeds.in/",
+    "Phone": ""
+},{
+    "ID": 25,
+    "State": "Tamil Nadu",
+    "Address": "https://covidtnadu.com",
+    "Phone": ""
+},{
+    "ID": 26,
+    "State": "Tamil Nadu",
+    "Address": "https://stopcorona.tn.gov.in/beds.php",
+    "Phone": ""
+},{
+    "ID": 27,
+    "State": "Maharashtra",
+    "Address": "https://covidbeed.com",
+    "Phone": ""
+}
+,{
+    "ID": 28,
+    "State": "Gujarat",
+    "Address": "https://covidgandhinagar.com",
+    "Phone": ""
 }]
