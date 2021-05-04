@@ -1,26 +1,6 @@
 [{
     "ID": 1,
-    "State": "Bihar",
+    "State": "Coming Soon",
     "Address": "",
-    "Phone": ""
-}, {
-    "ID": 2,
-    "State": "Jharkhand",
-    "Address": "",
-    "Phone": ""
-},{
-    "ID": 3,
-    "State": "Odisha",
-    "Address": "",
-    "Phone": ""
-},{
-    "ID": 4,
-    "State": "Uttar Pradesh",
-    "Address": "",
-    "Phone": ""
-},{
-    "ID": 5,
-    "State": "West Bengal",
-    "Address": "Ujjiban Hospital, Jatragachi Floyover , Newtown, Kolkata",
     "Phone": ""
 }]
