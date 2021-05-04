@@ -64,11 +64,6 @@
     "Address": "https://covidbaroda.com",
     "Phone": ""
 },{
-    "ID": 18,
-    "State": "Maharashtra",
-    "Address": "http://nsscdcl.org/covidbeds/AvailableHospitals.jsp",
-    "Phone": ""
-},{
     "ID": 19,
     "State": "Maharashtra",
     "Address": "https://covidnashik.com",
@@ -77,11 +72,6 @@
     "ID": 20,
     "State": "Madhya Pradesh",
     "Address": "https://covidmp.com",
-    "Phone": ""
-},{
-    "ID": 21,
-    "State": "Uttar Pradesh",
-    "Address": "http://dgmhup.gov.in/en/CovidReport",
     "Phone": ""
 },{
     "ID": 22,
