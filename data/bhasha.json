@@ -1,0 +1,13 @@
+[
+  {"ID": 1, "Language": "हिन्दी"},
+  {"ID": 2, "Language": "বাংলা"},
+  {"ID": 3, "Language": "தமிழ்"},
+  {"ID": 4, "Language": "తెలుగు"},
+  {"ID": 5, "Language": "मराठी"},
+  {"ID": 6, "Language": "ગુજરાતી"},
+  {"ID": 7, "Language": "ଓଡ଼ିଆ"},
+  {"ID": 8, "Language": "ਪੰਜਾਬੀ"},
+  {"ID": 9, "Language": "অসমীয়া"},
+  {"ID": 10, "Language": "മലയാളം"},
+  {"ID": 11, "Language": "ಕನ್ನಡ"}
+]
