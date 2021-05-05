@@ -133,10 +133,14 @@
     "State": "महाराष्ट्र",
     "Address": "https://covidbeed.com",
     "Phone": ""
-}
-,{
+},{
     "ID": 28,
     "State": "गुजरात",
     "Address": "https://covidgandhinagar.com",
+    "Phone": ""
+},{
+    "ID": 29,
+    "State": "लद्दाख़",
+    "Address": "https://covid.ladakh.gov.in/",
     "Phone": ""
 }]
