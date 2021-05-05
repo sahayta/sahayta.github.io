@@ -14,6 +14,11 @@
     "Address": "https://covid19.uk.gov.in/bedssummary.aspx",
     "Phone": ""
 },{
+    "ID": 4,
+    "State": "त्रिपुरा",
+    "Address": "https://covid19.tripura.gov.in/",
+    "Phone": ""
+},{
     "ID": 5,
     "State": "पश्चिम बंगाल",
     "Address": "Ujjiban Hospital, Jatragachi Floyover , Newtown, Kolkata",
