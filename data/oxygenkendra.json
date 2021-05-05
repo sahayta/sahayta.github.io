@@ -144,11 +144,6 @@
     "Address": "https://www.goa.gov.in/covid-19/",
     "Phone": ""
 },{
-    "ID": 31,
-    "State": "गुजरात",
-    "Address": "https://gujcovid19.gujarat.gov.in/",
-    "Phone": ""
-},{
     "ID": 32,
     "State": "गुजरात",
     "Address": "https://vmc.gov.in/Covid19VadodaraApp/Default.aspx",
@@ -182,11 +177,6 @@
     "ID": 39,
     "State": "महाराष्ट्र",
     "Address": "https://www.divcommpunecovid.com/ccsbeddashboard/hsr",
-    "Phone": ""
-},{
-    "ID": 40,
-    "State": "महाराष्ट्र",
-    "Address": "http://nsscdcl.org/covidbeds/AvailableHospitals.jsp",
     "Phone": ""
 },{
     "ID": 41,
