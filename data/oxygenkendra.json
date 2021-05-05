@@ -163,4 +163,74 @@
     "State": "गुजरात",
     "Address": "http://office.suratsmartcity.com/SuratCOVID19/",
     "Phone": ""
+},{
+    "ID": 34,
+    "State": "झारखण्ड",
+    "Address": "https://www.jharkhand.gov.in/Home/Covid19Dashboard",
+    "Phone": ""
+},{
+    "ID": 35,
+    "State": "कर्णाटक",
+    "Address": "http://bbmpgov.com/chbms/",
+    "Phone": ""
+},{
+    "ID": 36,
+    "State": "केरल",
+    "Address": "https://covid19jagratha.kerala.nic.in/home/addHospitalDashBoard",
+    "Phone": ""
+},{
+    "ID": 37,
+    "State": "मध्य प्रदेश",
+    "Address": "http://sarthak.nhmmp.gov.in/covid/facility-bed-occupancy-dashboard/",
+    "Phone": ""
+},{
+    "ID": 38,
+    "State": "महाराष्ट्र",
+    "Address": "https://nmmchealthfacilities.com/HospitalInfo/showhospitalist",
+    "Phone": ""
+},{
+    "ID": 39,
+    "State": "महाराष्ट्र",
+    "Address": "https://www.divcommpunecovid.com/ccsbeddashboard/hsr",
+    "Phone": ""
+},{
+    "ID": 40,
+    "State": "महाराष्ट्र",
+    "Address": "http://nsscdcl.org/covidbeds/AvailableHospitals.jsp",
+    "Phone": ""
+},{
+    "ID": 41,
+    "State": "महाराष्ट्र",
+    "Address": "http://covidcbrs.nmc.gov.in/home/hospitalSummary",
+    "Phone": ""
+},{
+    "ID": 42,
+    "State": "मेघालय",
+    "Address": "https://meghealth.in/MeghCare.html",
+    "Phone": ""
+},{
+    "ID": 43,
+    "State": "ओडिशा",
+    "Address": "https://statedashboard.odisha.gov.in/",
+    "Phone": ""
+},{
+    "ID": 44,
+    "State": "पुदुचेरी",
+    "Address": "https://covid19dashboard.py.gov.in/",
+    "Phone": ""
+},{
+    "ID": 45,
+    "State": "पंजाब",
+    "Address": "https://punjab.gov.in/",
+    "Phone": ""
+},{
+    "ID": 46,
+    "State": "सिक्किम",
+    "Address": "https://www.covid19sikkim.org/",
+    "Phone": ""
+},{
+    "ID": 47,
+    "State": "पश्चिम बंगाल",
+    "Address": "https://www.wbhealth.gov.in/",
+    "Phone": ""
 }]
