@@ -29,6 +29,11 @@
     "Address": "https://covid19health.bihar.gov.in/DailyDashboard/BedsOccupied",
     "Phone": ""
 },{
+    "ID": 7,
+    "State": "असम",
+    "Address": "https://nhm.assam.gov.in/portlet-innerpage/dedicated-covid-hospitals",
+    "Phone": ""
+},{
     "ID": 8,
     "State": "हरियाणा",
     "Address": "https://covidggn.com/",
