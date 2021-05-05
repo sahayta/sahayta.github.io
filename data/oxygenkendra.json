@@ -99,11 +99,6 @@
     "Address": "https://covidmp.com",
     "Phone": ""
 },{
-    "ID": 21,
-    "State": "छत्तीसगढ़",
-    "Address": "https://cg.nic.in/health/covid19/RTPBedAvailable.aspx",
-    "Phone": ""
-},{
     "ID": 22,
     "State": "राजस्थान",
     "Address": "https://covidinfo.rajasthan.gov.in/COVID19HOSPITALBEDSSTATUSSTATE.aspx",
@@ -157,11 +152,6 @@
     "ID": 32,
     "State": "गुजरात",
     "Address": "https://vmc.gov.in/Covid19VadodaraApp/Default.aspx",
-    "Phone": ""
-},{
-    "ID": 33,
-    "State": "गुजरात",
-    "Address": "http://office.suratsmartcity.com/SuratCOVID19/",
     "Phone": ""
 },{
     "ID": 34,
