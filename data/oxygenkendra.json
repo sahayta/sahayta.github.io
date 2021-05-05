@@ -84,7 +84,7 @@
     "Address": "https://ahna.org.in/covid19.html",
     "Phone": ""
 },{
-    "ID": 17,
+    "ID": 18,
     "State": "गुजरात",
     "Address": "https://covidbaroda.com",
     "Phone": ""
@@ -97,6 +97,11 @@
     "ID": 20,
     "State": "मध्य प्रदेश",
     "Address": "https://covidmp.com",
+    "Phone": ""
+},{
+    "ID": 21,
+    "State": "छत्तीसगढ़",
+    "Address": "https://cg.nic.in/health/covid19/RTPBedAvailable.aspx",
     "Phone": ""
 },{
     "ID": 22,
