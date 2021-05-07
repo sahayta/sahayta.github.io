@@ -1,6 +1,6 @@
 [{
     "ID": 1,
-    "State": "दादरा और नागर हवेली और दमन और दीव",
+    "State": "ଦାଦ୍ରା ଆଣ୍ଡ୍ ନଗର ହାବେଳି ଆଣ୍ଡ୍ ଡାମନ ଆଣ୍ଡ୍ ଡିଉ",
     "Address": "https://covidfacility.dddgov.in",
     "Phone": ""
 },{
@@ -20,7 +20,7 @@
     "Phone": ""
 },{
     "ID": 5,
-    "State": "त्रिपुरा",
+    "State": "ତ୍ରିପୁରା",
     "Address": "https://covid19.tripura.gov.in/",
     "Phone": ""
 },{
@@ -150,7 +150,7 @@
     "Phone": ""
 },{
     "ID": 31,
-    "State": "मध्य प्रदेश",
+    "State": "ମଧ୍ୟ ପ୍ରଦେଶ",
     "Address": "http://sarthak.nhmmp.gov.in/covid/facility-bed-occupancy-dashboard/",
     "Phone": ""
 },{
@@ -170,7 +170,7 @@
     "Phone": ""
 },{
     "ID": 35,
-    "State": "लद्दाख़",
+    "State": "ଲଦାଖ",
     "Address": "https://covid.ladakh.gov.in/",
     "Phone": ""
 },{
@@ -190,7 +190,7 @@
     "Phone": ""
 },{
     "ID": 39,
-    "State": "मेघालय",
+    "State": "ମେଘାଳୟ",
     "Address": "https://meghealth.in/MeghCare.html",
     "Phone": ""
 },{
@@ -210,7 +210,7 @@
     "Phone": ""
 },{
     "ID": 43,
-    "State": "सिक्किम",
+    "State": "ସିକିମ",
     "Address": "https://www.covid19sikkim.org/",
     "Phone": ""
 }]
