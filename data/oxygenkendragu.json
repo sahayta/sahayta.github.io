@@ -1,0 +1,216 @@
+[{
+    "ID": 1,
+    "State": "દાદરા અને નગર હવેલી અને દમણ અને દીવ",
+    "Address": "https://covidfacility.dddgov.in",
+    "Phone": ""
+},{
+    "ID": 2,
+    "State": "દિલ્હી",
+    "Address": "https://coviddelhi.com/",
+    "Phone": ""
+},{
+    "ID": 3,
+    "State": "દિલ્હી",
+    "Address": "https://coronabeds.jantasamvad.org/",
+    "Phone": ""
+},{
+    "ID": 4,
+    "State": "ઉત્તરાખંડ",
+    "Address": "https://covid19.uk.gov.in/bedssummary.aspx",
+    "Phone": ""
+},{
+    "ID": 5,
+    "State": "ત્રિપુરા",
+    "Address": "https://covid19.tripura.gov.in/",
+    "Phone": ""
+},{
+    "ID": 6,
+    "State": "પશ્ચિમ બંગાળ",
+    "Address": "https://covidwb.com",
+    "Phone": ""
+},{
+    "ID": 7,
+    "State": "પશ્ચિમ બંગાળ",
+    "Address": "Ujjiban Hospital, Jatragachi Floyover , Newtown, Kolkata",
+    "Phone": ""
+},{
+    "ID": 8,
+    "State": "પશ્ચિમ બંગાળ",
+    "Address": "https://www.wbhealth.gov.in/",
+    "Phone": ""
+},{
+    "ID": 9,
+    "State": "બિહાર",
+    "Address": "https://covid19health.bihar.gov.in/DailyDashboard/BedsOccupied",
+    "Phone": ""
+},{
+    "ID": 10,
+    "State": "આસામ",
+    "Address": "https://nhm.assam.gov.in/portlet-innerpage/dedicated-covid-hospitals",
+    "Phone": ""
+},{
+    "ID": 11,
+    "State": "હરિયાણા",
+    "Address": "https://covidggn.com/",
+    "Phone": ""
+},{
+    "ID": 12,
+    "State": "હરિયાણા",
+    "Address": "https://coronaharyana.in/",
+    "Phone": ""
+},{
+    "ID": 13,
+    "State": "મહારાષ્ટ્ર",
+    "Address": "https://covidthane.org/availabiltyOfHospitalBeds.html",
+    "Phone": ""
+},{
+    "ID": 14,
+    "State": "મહારાષ્ટ્ર",
+    "Address": "https://covidpune.com",
+    "Phone": ""
+},{
+    "ID": 15,
+    "State": "મહારાષ્ટ્ર",
+    "Address": "https://covidnashik.com",
+    "Phone": ""
+},{
+    "ID": 16,
+    "State": "મહારાષ્ટ્ર",
+    "Address": "https://covidbeed.com",
+    "Phone": ""
+},{
+    "ID": 17,
+    "State": "મહારાષ્ટ્ર",
+    "Address": "https://nmmchealthfacilities.com/HospitalInfo/showhospitalist",
+    "Phone": ""
+},{
+    "ID": 18,
+    "State": "મહારાષ્ટ્ર",
+    "Address": "https://www.divcommpunecovid.com/ccsbeddashboard/hsr",
+    "Phone": ""
+},{
+    "ID": 19,
+    "State": "મહારાષ્ટ્ર",
+    "Address": "http://covidcbrs.nmc.gov.in/home/hospitalSummary",
+    "Phone": ""
+},{
+    "ID": 20,
+    "State": "કર્ણાટક",
+    "Address": "https://covidbengaluru.com/",
+    "Phone": ""
+},{
+    "ID": 21,
+    "State": "કર્ણાટક",
+    "Address": "http://bbmpgov.com/chbms/",
+    "Phone": ""
+},{
+    "ID": 22,
+    "State": "આંધ્ર પ્રદેશ",
+    "Address": "https://covidaps.com",
+    "Phone": ""
+},{
+    "ID": 23,
+    "State": "તેલંગણા",
+    "Address": "https://covidtelangana.com",
+    "Phone": ""
+},{
+    "ID": 24,
+    "State": "ગુજરાત",
+    "Address": "https://covidamd.com",
+    "Phone": ""
+},{
+    "ID": 25,
+    "State": "ગુજરાત",
+    "Address": "https://ahna.org.in/covid19.html",
+    "Phone": ""
+},{
+    "ID": 26,
+    "State": "गुजरात",
+    "Address": "https://covidbaroda.com",
+    "Phone": ""
+},{
+    "ID": 27,
+    "State": "ગુજરાત",
+    "Address": "https://covidgandhinagar.com",
+    "Phone": ""
+},{
+    "ID": 28,
+    "State": "ગુજરાત",
+    "Address": "https://vmc.gov.in/Covid19VadodaraApp/Default.aspx",
+    "Phone": ""
+},{
+    "ID": 29,
+    "State": "મધ્ય પ્રદેશ",
+    "Address": "https://covidmp.com",
+    "Phone": ""
+},{
+    "ID": 30,
+    "State": "મધ્ય પ્રદેશ",
+    "Address": "https://bhopalcovidbeds.in/",
+    "Phone": ""
+},{
+    "ID": 31,
+    "State": "મધ્ય પ્રદેશ",
+    "Address": "http://sarthak.nhmmp.gov.in/covid/facility-bed-occupancy-dashboard/",
+    "Phone": ""
+},{
+    "ID": 32,
+    "State": "રાજસ્થાન",
+    "Address": "https://covidinfo.rajasthan.gov.in/COVID19HOSPITALBEDSSTATUSSTATE.aspx",
+    "Phone": ""
+},{
+    "ID": 33,
+    "State": "तामिळनाडू",
+    "Address": "https://covidtnadu.com",
+    "Phone": ""
+},{
+    "ID": 34,
+    "State": "તમિલનાડુ",
+    "Address": "https://stopcorona.tn.gov.in/beds.php",
+    "Phone": ""
+},{
+    "ID": 35,
+    "State": "લદ્દાખ",
+    "Address": "https://covid.ladakh.gov.in/",
+    "Phone": ""
+},{
+    "ID": 36,
+    "State": "ગોવા",
+    "Address": "https://www.goa.gov.in/covid-19/",
+    "Phone": ""
+},{
+    "ID": 37,
+    "State": "ઝારખંડ",
+    "Address": "https://www.jharkhand.gov.in/Home/Covid19Dashboard",
+    "Phone": ""
+},{
+    "ID": 38,
+    "State": "કેરળ",
+    "Address": "https://covid19jagratha.kerala.nic.in/home/addHospitalDashBoard",
+    "Phone": ""
+},{
+    "ID": 39,
+    "State": "મેઘાલય",
+    "Address": "https://meghealth.in/MeghCare.html",
+    "Phone": ""
+},{
+    "ID": 40,
+    "State": "ઓરિસ્સા",
+    "Address": "https://statedashboard.odisha.gov.in/",
+    "Phone": ""
+},{
+    "ID": 41,
+    "State": "પુડ્ડુચેરી",
+    "Address": "https://covid19dashboard.py.gov.in/",
+    "Phone": ""
+},{
+    "ID": 42,
+    "State": "પંજાબ",
+    "Address": "https://punjab.gov.in/",
+    "Phone": ""
+},{
+    "ID": 43,
+    "State": "સિક્કિમ",
+    "Address": "https://www.covid19sikkim.org/",
+    "Phone": ""
+}]
