@@ -1,13 +1,13 @@
 [
-  {"ID": 1, "Language": "हिन्दी"},
-  {"ID": 2, "Language": "বাংলা"},
-  {"ID": 3, "Language": "தமிழ்"},
-  {"ID": 4, "Language": "తెలుగు"},
-  {"ID": 5, "Language": "मराठी"},
-  {"ID": 6, "Language": "ગુજરાતી"},
-  {"ID": 7, "Language": "ଓଡ଼ିଆ"},
-  {"ID": 8, "Language": "ਪੰਜਾਬੀ"},
-  {"ID": 9, "Language": "অসমীয়া"},
-  {"ID": 10, "Language": "മലയാളം"},
-  {"ID": 11, "Language": "ಕನ್ನಡ"}
+  {"ID": 1, "Language": "हिन्दी", "Link": ""},
+  {"ID": 2, "Language": "বাংলা", "Link": "ba"},
+  {"ID": 3, "Language": "தமிழ்", "Link": "ta"},
+  {"ID": 4, "Language": "తెలుగు", "Link": "te"},
+  {"ID": 5, "Language": "मराठी", "Link": "ma"},
+  {"ID": 6, "Language": "ગુજરાતી", "Link": "gu"},
+  {"ID": 7, "Language": "ଓଡ଼ିଆ", "Link": "or"},
+  {"ID": 8, "Language": "ਪੰਜਾਬੀ", "Link": "pu"},
+  {"ID": 9, "Language": "অসমীয়া", "Link": "as"},
+  {"ID": 10, "Language": "മലയാളം", "Link": "mu"},
+  {"ID": 11, "Language": "ಕನ್ನಡ", "Link": "te"}
 ]
